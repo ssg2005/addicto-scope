@@ -51,7 +51,7 @@ Key features contributing to high addiction levels include:
 - **Platform and Device Type**
 - **Video Category and Frequency of usage**
 
-**XGBoost** and **Neural Networks** showed the highest predictive performance among all models.
+**XGBoost** showed the highest predictive performance among all models and **ANN** showed the lowest.
 
 Feature importance analysis helped in identifying behavioral patterns correlated with addictive use.
 
