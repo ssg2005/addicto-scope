@@ -45,6 +45,11 @@ All models were trained and evaluated using:
 - R² Score
 - Mean Squared Error (MSE)
 
+## Model Evaluation
+
+![image](https://github.com/user-attachments/assets/8a813e17-c708-49f5-a094-4313e6af2961)
+
+
 ## Insights & Findings
 Key features contributing to high addiction levels include:
 - **Watch Time**
